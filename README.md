@@ -57,7 +57,7 @@ Verify the site is accessible by going back to the Static website hosting sectio
 
 <br />
 <br />
-extstep is copying the same steps with the redirect bucket.Start by creating the www. Bucket (www.navigateproject.link).   <br/>
+Nextstep is copying the same steps with the redirect bucket.Start by creating the www. Bucket (www.navigateproject.link).   <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 

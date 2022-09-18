@@ -104,6 +104,9 @@ Once you are done wait a few minutes before checking the propagation in real tim
 
 </p>
 
+<a href="https://github.com/Diealegend/AWS-Static-Web-site-Hosting/blob/8dc049b8beca29e35c6f422be12e823e2bfdf792/README.md/" >Part 2</a>
+
+
 <!--
  ```diff
 - text in red

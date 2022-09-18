@@ -105,7 +105,10 @@ Once you are done wait a few minutes before checking the propagation in real tim
 </p>
 
 <a href="https://github.com/Diealegend/AWS-Static-Web-site-Hosting/blob/8dc049b8beca29e35c6f422be12e823e2bfdf792/README.md/" >Part 2</a>
-
+<a href="https://github.com/Diealegend/AWS-Static-Web-site-Hosting/blob/eff7d6c2a029c2ec30cbdc4e72e35ce70b1167b3/README.md/">Part 3</a>
+<a href="https://github.com/Diealegend/AWS-Static-Web-site-Hosting/blob/16adb9097f291f509387360ade0cafaea68adfcc/README.md/">Part 4</a>
+<a href="https://github.com/Diealegend/AWS-Static-Web-site-Hosting/blob/9c284fc9c36ef0854a9860275a09bd6400386cc1/README.md">Part 5</a>
+<a href="https://github.com/Diealegend/AWS-Static-Web-site-Hosting/blob/9c284fc9c36ef0854a9860275a09bd6400386cc1/README.md">Part 6</a>
 
 <!--
  ```diff
